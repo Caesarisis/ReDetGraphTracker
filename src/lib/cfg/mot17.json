@@ -1,0 +1,7 @@
+{
+    "root":"/home/gl/dataset",
+    "train":
+    {
+        "ARS-VOC":"/home/gl/FairMOT/src/data/mot17.train"
+    }
+}
